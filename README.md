@@ -1,20 +1,30 @@
-<div align="center">
-<img width="1200" height="475" alt="GHBanner" src="https://github.com/user-attachments/assets/0aa67016-6eaf-458a-adb2-6e31a0763ed6" />
-</div>
+🚆 Railway Reservation System
+📌 Overview
 
-# Run and deploy your AI Studio app
+A simple and user-friendly Railway Reservation System designed to make the train booking process smooth and easy. The system focuses on clear navigation, guided flow, and better user experience.
 
-This contains everything you need to run your app locally.
-
-View your app in AI Studio: https://ai.studio/apps/db165aad-eccb-481e-b6b1-d2a84d2f6416
-
-## Run Locally
-
-**Prerequisites:**  Node.js
-
-
-1. Install dependencies:
-   `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
-3. Run the app:
-   `npm run dev`
+✨ Features
+🔍 Train search and selection
+💺 Simulated seat availability
+🔄 Automatic seat allocation
+🔐 Locking mechanism to avoid double booking
+🤖 Smart Travel Assistant for suggestions
+📱 Clean and responsive interface
+🛠️ Technologies Used
+- HTML
+- CSS
+- JavaScript
+- Figma (UI Design)
+- Cache memory for temporary data handling
+⚙️ How It Works
+- Search for trains
+- Select a route and train
+- Get suggestions from Smart Travel Assistant
+- Choose seats
+- Complete booking flow
+- View confirmation
+🔮 Future Scope
+- Database integration (MySQL/MongoDB)
+- Real-time data handling
+- Live train tracking
+- Cloud deployment
