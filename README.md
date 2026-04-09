@@ -1,15 +1,15 @@
 🚆 Railway Reservation System
-📌 Overview
 
 A simple and user-friendly Railway Reservation System designed to make the train booking process smooth and easy. The system focuses on clear navigation, guided flow, and better user experience.
 
 ✨ Features
-🔍 Train search and selection
-💺 Simulated seat availability
-🔄 Automatic seat allocation
-🔐 Locking mechanism to avoid double booking
-🤖 Smart Travel Assistant for suggestions
-📱 Clean and responsive interface
+
+Train search and selection
+Simulated seat availability
+Automatic seat allocation
+Locking mechanism to avoid double booking
+Smart Travel Assistant for suggestions
+Clean and responsive interface
 
 🛠️ Technologies Used
 - HTML
