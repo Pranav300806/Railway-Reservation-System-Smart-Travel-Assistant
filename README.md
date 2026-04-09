@@ -10,12 +10,14 @@ A simple and user-friendly Railway Reservation System designed to make the train
 🔐 Locking mechanism to avoid double booking
 🤖 Smart Travel Assistant for suggestions
 📱 Clean and responsive interface
+
 🛠️ Technologies Used
 - HTML
 - CSS
 - JavaScript
 - Figma (UI Design)
 - Cache memory for temporary data handling
+  
 ⚙️ How It Works
 - Search for trains
 - Select a route and train
@@ -23,8 +25,4 @@ A simple and user-friendly Railway Reservation System designed to make the train
 - Choose seats
 - Complete booking flow
 - View confirmation
-🔮 Future Scope
-- Database integration (MySQL/MongoDB)
-- Real-time data handling
-- Live train tracking
-- Cloud deployment
+
