@@ -5,10 +5,15 @@ A simple and user-friendly Railway Reservation System designed to make the train
 ✨ Features
 
 Train search and selection
+
 Simulated seat availability
+
 Automatic seat allocation
+
 Locking mechanism to avoid double booking
+
 Smart Travel Assistant for suggestions
+
 Clean and responsive interface
 
 🛠️ Technologies Used
